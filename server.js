@@ -4,7 +4,7 @@
 // ==============================================================================
 
 const express = require("express");
-const apiRoutes = require("./routes/apiRoutes");
+const apiRoutes = require("./routes/apiroutes");
 const htmlRoutes = require("./routes/htmlroutes");
 
 // ==============================================================================
